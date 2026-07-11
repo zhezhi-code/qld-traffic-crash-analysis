@@ -1,0 +1,17 @@
+# Dataset
+
+The datasets used in this project are publicly available.
+
+## Queensland Government Open Data
+
+- Crash Locations
+- Driver Involvement
+- Road Casualties
+- Road Factors
+- Road Roughness
+
+Download the datasets from:
+
+https://www.data.qld.gov.au/
+
+After downloading, place all CSV files in the `data/` folder.
